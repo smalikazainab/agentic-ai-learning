@@ -1,6 +1,6 @@
 # AI Agent — Conversational Assistant with Tools & Memory
 
-A command-line AI agent built with Python and Google's Gemini API. It holds natural conversations, remembers context across sessions, and can autonomously decide when to use tools like performing calculations or checking live weather — instead of just generating text.
+A command-line AI agent built with Python and Google's Gemini API. It holds natural conversations, remembers context across sessions, and can autonomously decide when to use tools like performing calculations or checking live weather  instead of just generating text.
 
 ## Features
 
